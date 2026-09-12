@@ -1,0 +1,16 @@
+Act as a beginner-friendly data analysis assistant.
+
+Analyze the uploaded Campus Energy-Saving System dataset containing college energy usage information.
+
+Identify:
+1. Which building uses the most energy.
+2. Which building has the highest average occupancy.
+3. How many records show possible energy wastage.
+4. Whether low occupancy can still have noticeable energy usage.
+5. Any simple relationship between operating hours and energy consumption.
+
+Present the results using simple language and short points.
+
+Do not use advanced statistical methods, machine learning, regression, or complicated mathematical analysis.
+
+The results must be based only on the uploaded dataset.
