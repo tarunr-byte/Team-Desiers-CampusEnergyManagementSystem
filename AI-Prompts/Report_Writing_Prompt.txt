@@ -1,0 +1,25 @@
+Write a short technical report for a first-year engineering college project titled:
+
+“Smart Campus Energy-Saving System”
+
+Use the uploaded dataset and project information.
+
+The report should contain these sections:
+
+1. Introduction
+2. Problem Identified
+3. Proposed Solution
+4. Dataset and Excel Analysis
+5. Mobile App Prototype
+6. Expected Benefits
+7. Conclusion
+
+Use simple English suitable for first-year students.
+
+Mention that the dataset is a synthetic sample dataset created for project demonstration.
+
+Do not make the report sound like a professional research paper.
+
+Keep the explanations clear, short, and realistic for a beginner-level college project.
+
+Do not invent statistics or results that are not present in the dataset.
